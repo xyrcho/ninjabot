@@ -30,9 +30,9 @@ MEMEK = "https://telegra.ph/file/cac118c837fbe9974024f.jpg"
 async def repo(_, message):
     await message.reply_photo(
         photo=MEMEK,
-        caption=f"""✨ **Hey I'm Emiko Robot** 
+        caption=f"""✨ **Hey I'm Ninjabot** 
 
-**Owner repo : [sena-ex](https://t.me/excrybaby)**
+**Owner repo : [xyrcho](https://t.me/rixyrcho)**
 **Python Version :** `{y()}`
 **Library Version :** `{o}`
 **Telethon Version :** `{s}`
