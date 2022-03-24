@@ -39,7 +39,7 @@ This Bot is Forked from KennedyProject, If your kanging this without fork at lea
 
 ### Support
 <p>
-<a href="https://t.me/rixyrcho"> <img src="https://img.shields.io/badge/ri-xyrcho-blue?&logo=telegram" alt="xyrcho on Telegram" /> </a><br>
+<a href="https://t.me/rixyrcho"> <img src="https://img.shields.io/badge/Dev-xyrcho-blue?&logo=telegram" alt="xyrcho on Telegram" /> </a><br>
 <a href="https://t.me/xsupprt"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/xprjct"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
